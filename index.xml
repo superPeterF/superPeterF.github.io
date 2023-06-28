@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 20:53:19 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FBBsFirst</title>
+      <link>/posts/fbbsfirst/</link>
+      <pubDate>Wed, 28 Jun 2023 20:53:19 +0800</pubDate>
+      
+      <guid>/posts/fbbsfirst/</guid>
+      <description>
+        
+          
+            来自FBB小白的第一篇博客 创建博客的时候把fastgithub名称混淆了找了半天我晕，后面没看陈老师的讲述直接win+r打开的控制面板导致保存位置就很离谱又是找了半天，以后再也不走捷径了呜呜呜！！！ 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
